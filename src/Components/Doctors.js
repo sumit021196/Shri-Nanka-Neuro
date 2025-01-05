@@ -26,7 +26,7 @@ function Doctors() {
         <DoctorCard
           img={profile1}
           name="Dr. KS Rawat"
-          title="General Surgeons"
+          title="Neurologist"
           stars="4.9"
           reviews="1800"
         />

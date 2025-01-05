@@ -10,7 +10,7 @@ function Footer() {
         <div className="ft-info">
           <div className="ft-info-p1">
             <p className="ft-title">
-              Health <span className="ft-sign">+</span>
+              Shri Nanka <span className="ft-sign">+</span>
             </p>
             <p className="ft-description">
               Talk to online doctors and get medical advice, online
@@ -68,15 +68,15 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="mailto:support@healthplus.com">support@shrinanka.com</a>
             </li>
             <li>
               <a href="mailto:appointment@healthplus.com">
-                appointment@healthplus.com
+                appointment@shrinanka.com
               </a>
             </li>
             <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
+              <a href="tel:+022 5454 5252">+91 6268630021</a>
             </li>
             <li>
               <a href="tel:+022 2326 6232">+022 2326 6232</a>
@@ -86,7 +86,7 @@ function Footer() {
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>© 2013-2023 Shri Nanka+. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>
