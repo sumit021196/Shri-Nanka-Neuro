@@ -1,6 +1,6 @@
 import React from "react";
 import InformationCard from "./InformationCard";
-import { faHeartPulse, faTruckMedical, faTooth } from "@fortawesome/free-solid-svg-icons";
+import { faHeartPulse,  faTooth, faKitMedical } from "@fortawesome/free-solid-svg-icons";
 import "../Styles/Info.css";
 
 function Info() {
@@ -11,41 +11,26 @@ function Info() {
           <span>What We Do</span>
         </h3>
         <p className="info-description">
-          We bring healthcare to your convenience, offering a comprehensive
-          range of on-demand medical services tailored to your needs. Our
-          platform allows you to connect with experienced online doctors who
-          provide expert medical advice, issue online prescriptions, and offer
-          quick refills whenever you require them.
+          At Shri Nanka Nursing Home, we provide specialized care in neurology and dermatology to address a wide range of health concerns. From advanced diagnosis and treatment of neurological disorders to personalized skin care solutions, our expert team ensures comprehensive and compassionate care for every patient. We are committed to helping you achieve better health and confidence with state-of-the-art facilities and tailored medical solutions.
         </p>
       </div>
 
       <div className="info-cards-content">
         <InformationCard
-          title="Emergency Care"
-          description="Our Emergency Care service is designed to be your reliable support
-            in critical situations. Whether it's a sudden illness, injury, or
-            any medical concern that requires immediate attention, our team of
-            dedicated healthcare professionals is available 24/7 to provide
-            prompt and efficient care."
-          icon={faTruckMedical}
+          title="Advanced Neurology Care"
+          description="Diagnosis and treatment of neurological disorders, including migraines, epilepsy, stroke, and nerve-related conditions."
+          icon={faKitMedical}
         />
 
         <InformationCard
-          title="Heart Disease"
-          description="Our team of experienced cardiologists and medical experts use
-            state-of-the-art technology to assess your cardiovascular health and
-            design personalized treatment plans. From comprehensive screenings
-            to advanced interventions, we are committed to helping you maintain
-            a healthy heart and lead a fulfilling life."
+          title="Dermatology & Skin Treatments"
+          description="Comprehensive care for skin conditions such as acne, eczema, psoriasis, and aesthetic dermatology solutions."
           icon={faHeartPulse}
         />
 
         <InformationCard
-          title="Dental Care"
-          description="Smile with confidence as our Dental Care services cater to all your
-            oral health needs. Our skilled dentists provide a wide range of
-            treatments, from routine check-ups and cleanings to cosmetic
-            procedures and restorative treatments."
+          title="Health Check-ups & Preventive Care"
+          description="Regular health assessments and preventive care programs to maintain overall well-being."
           icon={faTooth}
         />
       </div>

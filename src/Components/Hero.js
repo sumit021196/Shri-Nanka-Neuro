@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Doctor from "../Assets/doctor-picture.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCalendarCheck, faAngleUp } from "@fortawesome/free-solid-svg-icons";
-import { useNavigate  } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import "../Styles/Hero.css";
 
 function Hero() {
@@ -36,14 +36,12 @@ function Hero() {
     <div className="section-container">
       <div className="hero-section">
         <div className="text-section">
-          <p className="text-headline">❤️ Health comes first</p>
+          <p className="text-headline">🧠 Your Trusted Partner in Neuro & Skin Care</p>
           <h2 className="text-title">
-            Find your Doctor and make an Appointments
+            Advanced Neuro & Skin Care Center in Indore
           </h2>
           <p className="text-descritpion">
-            Talk to online doctors and get medical advice, online prescriptions,
-            refills and medical notes within minutes. On-demand healthcare
-            services at your fingertips.
+            At Shri Nanka Nursing Home, we specialize in delivering advanced treatments for neurological and dermatological conditions. With expert care, modern facilities, and a patient-first approach, we are dedicated to improving your health and well-being. Visit us in Musakhedi, Indore, for compassionate, specialized healthcare you can trust.
           </p>
           <button
             className="text-appointment-btn"
