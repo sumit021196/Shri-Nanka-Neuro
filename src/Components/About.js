@@ -15,10 +15,7 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Health Plus, your trusted partner for accessible and
-          personalized healthcare. Our expert doctors offer online consultations
-          and specialized services, prioritizing your well-being. Join us on
-          this journey towards a healthier you.
+          Shri Nanka Nursing Home - Advanced Neuro & Skin Care Center is a trusted healthcare facility in Musakhedi, Indore, specializing in advanced neurology and dermatology treatments. With a commitment to quality care, the center operates from 9:00 AM to 9:00 PM, Monday to Saturday. Located at 84, Shri Vinayak Township, Devguradia, Indore, it offers accessible and expert medical services to the community.
         </p>
 
         <h4 className="about-text-title">Your Solutions</h4>
