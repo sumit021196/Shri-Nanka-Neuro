@@ -5,7 +5,7 @@ import {
   faCircleCheck,
   faCalendarCheck,
 } from "@fortawesome/free-solid-svg-icons";
-import { useNavigate  } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import "../Styles/BookAppointment.css";
 
 function BookAppointment() {
@@ -23,13 +23,10 @@ function BookAppointment() {
 
       <div className="ba-text-content">
         <h3 className="ba-title">
-          <span>Why Choose Health</span>
+          <span>Why Choose Shri Nanka</span>
         </h3>
         <p className="ba-description">
-          Discover the reasons to choose Health Plus for your healthcare needs.
-          Experience expert care, convenience, and personalized solutions,
-          making your well-being our top priority. Join us on a journey to
-          better health and a happier life.
+          Discover why Shri Nanka Nursing Home is the trusted choice for advanced neuro and skin care. With expert professionals, compassionate care, and tailored treatment plans, your health is in good hands. Join us in prioritizing your well-being for a healthier, happier life.
         </p>
 
         <p className="ba-checks ba-check-first">

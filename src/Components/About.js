@@ -22,17 +22,17 @@ function About() {
 
         <SolutionStep
           title="Choose a Specialist"
-          description="Find your perfect specialist and book with ease at Health Plus. Expert doctors prioritize your health, offering tailored care."
+          description="Find the right neuro and skin care specialist at Shri Nanka Nursing Home. Our team of experienced doctors is dedicated to offering personalized care, addressing your unique health needs with expertise."
         />
 
         <SolutionStep
           title="Make a Schedule"
-          description="Choose the date and time that suits you best, and let our dedicated team of medical professionals ensure your well-being with personalized care."
+          description="Book your appointment with ease! Select the date and time that suits your schedule, and our medical team will ensure that you receive the highest level of care tailored to your condition."
         />
 
         <SolutionStep
           title="Get Your Solutions"
-          description="Our experienced doctors and specialists are here to provide expert advice and personalized treatment plans, helping you achieve your best possible health."
+          description="Experience expert neuro and skin treatments at Shri Nanka Nursing Home. Our specialists are committed to providing effective and personalized solutions for your health and well-being, ensuring the best possible care every step of the way."
         />
       </div>
     </div>
